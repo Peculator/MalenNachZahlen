@@ -10,8 +10,8 @@ java -jar MnZ.jar ~/Desktop/Cheetah_at_Sunset.jpg 5
 ![Beispielsuche](img/mnz.png)
 
 Tasten/ Keys
-b : Generiere Rahmen/ generate borders
-
-s : Bild speichern/ save image
+-------
+* b : Generiere Rahmen/ generate borders
+* s : Bild speichern/ save image
 
 
