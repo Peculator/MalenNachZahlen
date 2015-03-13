@@ -4,5 +4,11 @@ Diese Anwendung verwandelt Bilder in Zeichnungen, die man ausdrucken und selber 
 Benutzung/ Usage:
 java -jar MnZ.jar /path/to/file numberOfColors
 
-Beispiel / Example:
-java -jar MnZ.jar ~/Desktop/image1.jpg 12
+Beispiel/ Example:
+java -jar MnZ.jar ~/Desktop/Cheetah_at_Sunset.jpg 5
+
+Tasten/ Keys
+b : Generiere Rahmen/ generate borders
+s : Bild speichern/ save image
+
+
